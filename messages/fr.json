@@ -1,0 +1,110 @@
+{
+  "Navigation": {
+    "services": "Services",
+    "fleet": "Notre Flotte VTC",
+    "rentals": "Location",
+    "whyUs": "Pourquoi Nous",
+    "testimonials": "Avis",
+    "contact": "Contact",
+    "bookNow": "Réserver"
+  },
+  "Hero": {
+    "title": "Voyagez avec style\net confort à Paris",
+    "subtitle": "L'expérience ultime de transport de luxe. Chauffeurs privés, voitures de sport en location et service sur-mesure 24/7.",
+    "cta": "Réserver votre trajet"
+  },
+  "Services": {
+    "heading": "Nos Services",
+    "subheading": "L'excellence à chaque trajet",
+    "airport": "Transfert Aéroport",
+    "airportDesc": "Un accueil personnalisé dès votre arrivée. Ponctualité et confort garantis entre les aéroports de Paris (CDG, Orly, Le Bourget) et votre destination.",
+    "hourly": "Mise à Disposition",
+    "hourlyDesc": "Votre chauffeur privé à votre disposition pour la durée de votre choix. Idéal pour vos rendez-vous d'affaires ou virées shopping.",
+    "events": "Événements Privés",
+    "eventsDesc": "Un service prestigieux pour vos mariages, soirées de gala, ou événements VIP. Une arrivée remarquée et élégante.",
+    "tours": "Circuits Touristiques",
+    "toursDesc": "Découvrez Paris et ses alentours dans un confort absolu. Laissez-nous vous guider vers les plus beaux monuments."
+  },
+  "Fleet": {
+    "heading": "Notre Flotte VTC",
+    "subheading": "Le prestige en mouvement",
+    "sClass": "Mercedes Classe S",
+    "sClassDesc": "L'incarnation du luxe. Parfaite pour les voyages d'affaires et la haute direction. Sièges massants, Wi-Fi, rafraîchissements.",
+    "sClassPrice": "À partir de 120€",
+    "vClass": "Mercedes Classe V",
+    "vClassDesc": "Le confort ultime pour les groupes. Conçue pour 7 passagers avec un habitacle modulable format salon et finitions haut de gamme.",
+    "vClassPrice": "À partir de 150€",
+    "featWifi": "Wi-Fi Gratuit",
+    "featWater": "Eau & Rafraîchissements",
+    "featPress": "Presse du jour",
+    "featSpace": "Habitacle 7 places",
+    "bookBtn": "Réserver",
+    "loadMore": "Voir Plus"
+  },
+  "Rental": {
+    "heading": "Location",
+    "subheading": "Prenez le volant de l'exception",
+    "sportsCar": "Porsche 911 Carrera",
+    "sportsCarDesc": "L'icône des voitures de sport intemporelles. Parfaite pour une escapade le temps d'un week-end ou simplement pour le plaisir de conduire sans chauffeur. Alliant puissance, agilité et élégance.",
+    "sportsCarPrice": "À partir de 850€",
+    "perDayLabel": "jour",
+    "featUnlimitedM": "250 km inclus",
+    "featInsurance": "Assurance tous risques",
+    "featDeposit": "Caution de 5000€",
+    "bookBtn": "Demander une location",
+    "loadMore": "Voir Plus"
+  },
+  "WhyUs": {
+    "heading": "Pourquoi Nous",
+    "subheading": "La référence du transport",
+    "description": "Nous allons au-delà du simple transport. Nous créons une expérience de voyage fluide et raffinée. Nos véhicules sont triés sur le volet pour leur exigence et nos chauffeurs pour leur professionnalisme.",
+    "yearsExp": "Années d'Expérience",
+    "clients": "Clients Satisfaits",
+    "punctuality": "Ponctualité Absolue",
+    "punctualityDesc": "Votre chauffeur est toujours sur place 15 minutes avant l'heure prévue.",
+    "discretion": "Discrétion & Courtoisie",
+    "discretionDesc": "Un service haut de gamme, respectant votre intimité et vos exigences.",
+    "luxury": "Véhicules d'Exception",
+    "luxuryDesc": "Une flotte de VTC et supersportives récente et entretenue.",
+    "security": "Sécurité Premium",
+    "securityDesc": "Chauffeurs professionnels formés à la conduite de sécurité et à l'éco-conduite."
+  },
+  "Testimonials": {
+    "heading": "Témoignages",
+    "subheading": "Ce que disent nos clients",
+    "review1Name": "Jean-Pierre D.",
+    "review1Role": "Directeur Financier",
+    "review1Content": "Un service irréprochable. Le chauffeur était d'une grande courtoisie et la Classe S dans un état clinique. Mon fournisseur exclusif lors de mes déplacements à Paris.",
+    "review2Name": "Marie C.",
+    "review2Role": "Organisatrice d'Événements",
+    "review2Content": "Nous avons loué la Porsche pour le week-end, réservation très fluide, voiture impeccable. Idéal pour filer en Normandie le vendredi soir.",
+    "review3Name": "Ahmed K.",
+    "review3Role": "Client Privé",
+    "review3Content": "L'expérience client est exceptionnelle du début à la fin. Le transfert depuis Orly s'est fait sans aucun stress grâce à la prise en charge immédiate à la sortie des bagages."
+  },
+  "Booking": {
+    "heading": "Réservation",
+    "subheading": "Planifiez votre prochain trajet ou location",
+    "description": "Réservez votre véhicule dès aujourd'hui. Notre équipe est disponible 24/7 pour répondre à toutes vos demandes.",
+    "name": "Nom Complet",
+    "phone": "Téléphone",
+    "email": "Adresse Email",
+    "serviceType": "Type de Service",
+    "optAirport": "Transfert Aéroport",
+    "optHourly": "Mise à Disposition (VTC)",
+    "optEvent": "Événement / Navette",
+    "optRental": "Location Sans Chauffeur",
+    "message": "Détails (Date, Heure, Itinéraire/Durée...)",
+    "submit": "Envoyer la Demande",
+    "sending": "Envoi en cours...",
+    "successMsg": "Votre demande a été envoyée avec succès! Nous vous contacterons très prochainement."
+  },
+  "Location": {
+    "heading": "Notre Agence",
+    "subheading": "Où nous trouver",
+    "address": "15 Avenue des Champs-Élysées",
+    "city": "75008 Paris, France",
+    "phoneLabel": "Téléphone",
+    "emailLabel": "Email"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "Navigation": {
+    "services": "Services",
+    "fleet": "Our Chauffeur Fleet",
+    "rentals": "Rentals",
+    "whyUs": "Why Us",
+    "testimonials": "Reviews",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "Hero": {
+    "title": "Travel in style\nand comfort in Paris",
+    "subtitle": "The ultimate luxury transport experience. Private chauffeurs, luxury car rentals, and bespoke service 24/7.",
+    "cta": "Book your ride"
+  },
+  "Services": {
+    "heading": "Our Services",
+    "subheading": "Excellence in every journey",
+    "airport": "Airport Transfer",
+    "airportDesc": "Personalized greeting upon arrival. Punctuality and comfort guaranteed between Paris airports (CDG, Orly, Le Bourget) and your destination.",
+    "hourly": "Hourly Disposal",
+    "hourlyDesc": "Your private chauffeur at your disposal for the duration of your choice. Ideal for business meetings or shopping trips.",
+    "events": "Private Events",
+    "eventsDesc": "A prestigious service for your weddings, gala evenings, or VIP events. Make an elegant and remarkable entrance.",
+    "tours": "Sightseeing Tours",
+    "toursDesc": "Discover Paris and its surroundings in absolute comfort. Let us guide you to the most beautiful monuments."
+  },
+  "Fleet": {
+    "heading": "Our Chauffeur Fleet",
+    "subheading": "Prestige in motion",
+    "sClass": "Mercedes S-Class",
+    "sClassDesc": "The epitome of luxury. Perfect for business trips and executive travel. Massaging seats, Wi-Fi, refreshments.",
+    "sClassPrice": "From 120€",
+    "vClass": "Mercedes V-Class",
+    "vClassDesc": "Ultimate comfort for groups. Designed for 7 passengers with a modular lounge-style cabin and premium finishes.",
+    "vClassPrice": "From 150€",
+    "featWifi": "Free Wi-Fi",
+    "featWater": "Water & Refreshments",
+    "featPress": "Daily Newspaper",
+    "featSpace": "7 Passenger Cabin",
+    "bookBtn": "Book Now",
+    "loadMore": "Load More"
+  },
+  "Rental": {
+    "heading": "Rental",
+    "subheading": "Take the wheel of exception",
+    "sportsCar": "Porsche 911 Carrera",
+    "sportsCarDesc": "The timeless sports car icon. Perfect for a weekend getaway or simply for the thrill of driving. Combining power, agility, and elegance.",
+    "sportsCarPrice": "From 850€",
+    "perDayLabel": "day",
+    "featUnlimitedM": "250 km included",
+    "featInsurance": "Comprehensive Insurance",
+    "featDeposit": "5000€ deposit",
+    "bookBtn": "Request Rental",
+    "loadMore": "Load More"
+  },
+  "WhyUs": {
+    "heading": "Why Us",
+    "subheading": "The benchmark for luxury transport",
+    "description": "We go beyond mere transportation. We create a seamless and refined travel experience. Our fleet and chauffeurs are hand-picked for their professionalism.",
+    "yearsExp": "Years Experience",
+    "clients": "Satisfied Clients",
+    "punctuality": "Absolute Punctuality",
+    "punctualityDesc": "Your chauffeur is always on location 15 minutes before the scheduled time.",
+    "discretion": "Discretion & Courtesy",
+    "discretionDesc": "Premium service, respecting your privacy and specific requirements.",
+    "luxury": "Exceptional Vehicles",
+    "luxuryDesc": "A recent fleet, meticulously maintained, for optimal comfort.",
+    "security": "Premium Security",
+    "securityDesc": "Professional chauffeurs trained in security and eco-driving techniques."
+  },
+  "Testimonials": {
+    "heading": "Testimonials",
+    "subheading": "What our clients say",
+    "review1Name": "John P.",
+    "review1Role": "Financial Director",
+    "review1Content": "Flawless service. The chauffeur was highly courteous and the S-Class was pristine. My exclusive provider when I travel to Paris.",
+    "review2Name": "Mary C.",
+    "review2Role": "Event Planner",
+    "review2Content": "We rented the Porsche 911 for the weekend. Very smooth booking and impeccable car. Perfect to drive to Normandy.",
+    "review3Name": "Ahmed K.",
+    "review3Role": "Private Client",
+    "review3Content": "The customer experience is exceptional from start to finish. The transfer from Orly was completely stress-free thanks to the immediate pick-up at baggage claim."
+  },
+  "Booking": {
+    "heading": "Booking",
+    "subheading": "Plan your next journey or rental",
+    "description": "Book your private chauffeur or rental car today. Our team is available 24/7 to answer all your requests.",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "serviceType": "Service Type",
+    "optAirport": "Airport Transfer",
+    "optHourly": "Hourly Disposal (Chauffeur)",
+    "optEvent": "Event or Shuttle",
+    "optRental": "Self-Drive Rental",
+    "message": "Details (Date, Time, Itinerary/Duration...)",
+    "submit": "Send Request",
+    "sending": "Sending...",
+    "successMsg": "Your request has been sent successfully! We will contact you very soon."
+  },
+  "Location": {
+    "heading": "Our Agency",
+    "subheading": "Where to find us",
+    "address": "15 Avenue des Champs-Élysées",
+    "city": "75008 Paris, France",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email"
+  }
+}
