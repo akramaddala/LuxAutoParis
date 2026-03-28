@@ -2,7 +2,7 @@
 
 import {useTranslations} from 'next-intl';
 import {motion} from 'framer-motion';
-import {Briefcase, PlaneLanding, MapPin, CalendarClock} from 'lucide-react';
+import {Briefcase, PlaneLanding, MapPin, CalendarClock, Home} from 'lucide-react';
 
 export function ServicesSection() {
   const t = useTranslations('Services');
@@ -43,6 +43,11 @@ export function ServicesSection() {
       icon: MapPin,
       title: t('tours'),
       desc: t('toursDesc')
+    },
+    {
+      icon: Home,
+      title: t('apartments'),
+      desc: t('apartmentsDesc')
     }
   ];
 

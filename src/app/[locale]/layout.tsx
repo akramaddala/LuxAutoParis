@@ -21,18 +21,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LuxAutoParis | Premium Chauffeur Service & Car Rental",
+  title: "LuxServicesParis | Premium Chauffeur Service & Apartments",
   description: "Location voiture Paris, VTC Paris, chauffeur privé Paris. The ultimate luxury transport experience.",
   openGraph: {
-    title: "LuxAutoParis | Premium Chauffeur & Rentals",
+    title: "LuxServicesParis | Luxury Transport & Living",
     description: "The ultimate luxury transport experience in Paris. Private chauffeurs and sport car rentals.",
     type: "website",
     locale: "fr_FR",
-    siteName: "LuxAutoParis",
+    siteName: "LuxServicesParis",
   },
   twitter: {
     card: "summary_large_image",
-    title: "LuxAutoParis | Premium Service",
+    title: "LuxServicesParis | Premium Service",
     description: "The ultimate luxury transport experience in Paris.",
   }
 };

@@ -28,6 +28,7 @@ export function Navbar() {
     {href: '#services', label: t('services')},
     {href: '#fleet', label: t('fleet')},
     {href: '#rentals', label: t('rentals')},
+    {href: '#apartments', label: t('apartments')},
     {href: '#why-us', label: t('whyUs')},
     {href: '#testimonials', label: t('testimonials')},
   ];
@@ -39,7 +40,7 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold tracking-widest uppercase text-white hover:opacity-80 transition-opacity">
-          LuxAuto<span className="text-gold">Paris</span>
+          LuxServices<span className="text-gold">Paris</span>
         </Link>
 
         {/* Desktop Nav */}

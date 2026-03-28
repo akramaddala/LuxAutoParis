@@ -4,6 +4,7 @@ import {HeroSection} from '@/components/sections/HeroSection';
 import {ServicesSection} from '@/components/sections/ServicesSection';
 import {FleetSection} from '@/components/sections/FleetSection';
 import {RentalSection} from '@/components/sections/RentalSection';
+import {ApartmentsSection} from '@/components/sections/ApartmentsSection';
 import {WhyUsSection} from '@/components/sections/WhyUsSection';
 import {TestimonialsSection} from '@/components/sections/TestimonialsSection';
 import {BookingSection} from '@/components/sections/BookingSection';
@@ -28,6 +29,7 @@ export default async function HomePage({
       <ServicesSection />
       <FleetSection />
       <RentalSection />
+      <ApartmentsSection />
       <WhyUsSection />
       <TestimonialsSection />
       <BookingSection />
