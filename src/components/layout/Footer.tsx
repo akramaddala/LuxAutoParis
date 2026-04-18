@@ -9,10 +9,10 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
         <div className="md:col-span-2">
           <Link href="/" className="text-2xl font-bold tracking-widest uppercase text-white mb-6 inline-block">
-            LuxServices<span className="text-gold">Paris</span>
+            SERVICESLUX<span className="text-gold">LLC</span>
           </Link>
           <p className="text-sm max-w-sm leading-relaxed mb-6 font-light">
-            L'excellence du transport privé à Paris. Un service sur-mesure pour vos déplacements professionnels et personnels, avec une flotte de véhicules d'exception.
+            L'excellence du transport privé. Un service sur-mesure pour vos déplacements professionnels et personnels, avec une flotte de véhicules d'exception.
           </p>
         </div>
         
@@ -30,18 +30,18 @@ export function Footer() {
         <div>
           <h4 className="text-white text-sm font-semibold uppercase tracking-widest mb-6">Contact</h4>
           <ul className="space-y-4 text-sm font-light">
-            <li>Paris, France</li>
-            <li>+33 (0)1 23 45 67 89</li>
-            <li>contact@luxservicesparis.com</li>
+            <li>30 N GOULD ST STE N<br />SHERIDAN, WY 82801</li>
+            <li>+33 6 18 23 52 21</li>
+            <li>contact@servicesluxllc.com</li>
           </ul>
         </div>
       </div>
       
       <div className="max-w-7xl mx-auto px-6 pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center text-xs font-light">
-        <p>&copy; {new Date().getFullYear()} LuxServicesParis. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} SERVICESLUXLLC. All rights reserved.</p>
         <div className="flex space-x-6 mt-4 md:mt-0">
-          <span className="hover:text-white cursor-pointer transition-colors">Mentions Légales</span>
-          <span className="hover:text-white cursor-pointer transition-colors">Politique de Confidentialité</span>
+          <Link href="/mentions-legales" className="hover:text-white cursor-pointer transition-colors">Mentions Légales</Link>
+          <Link href="/politique-de-confidentialite" className="hover:text-white cursor-pointer transition-colors">Politique de Confidentialité</Link>
         </div>
       </div>
     </footer>

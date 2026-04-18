@@ -67,7 +67,7 @@ export function LocationSection() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-1 uppercase tracking-widest text-sm">{t('emailLabel')}</h4>
-                  <p className="text-neutral-400 font-light text-sm">contact@luxservicesparis.com</p>
+                  <p className="text-neutral-400 font-light text-sm">contact@servicesluxllc.com</p>
                 </div>
               </div>
             </motion.div>
@@ -83,7 +83,7 @@ export function LocationSection() {
           >
             {/* CSS Filter to make Google Maps look dark and premium */}
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.416205423871!2d2.2996112156747196!3d48.8693421792881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fcc4cd154ed%3A0xe54efc166eb8bf8b!2sAvenue%20des%20Champs-%C3%89lys%C3%A9es%2C%2075008%20Paris%2C%20France!5e0!3m2!1sen!2sus!4v1645000000000!5m2!1sen!2sus"
+              src="https://maps.google.com/maps?q=30%20N%20GOULD%20ST%20STE%20N%20SHERIDAN,%20WY%2082801&t=&z=14&ie=UTF8&iwloc=&output=embed"
               width="100%"
               height="100%"
               style={{

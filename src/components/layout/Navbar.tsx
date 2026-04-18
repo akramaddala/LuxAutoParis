@@ -40,7 +40,7 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold tracking-widest uppercase text-white hover:opacity-80 transition-opacity">
-          LuxServices<span className="text-gold">Paris</span>
+          SERVICESLUX<span className="text-gold">LLC</span>
         </Link>
 
         {/* Desktop Nav */}
