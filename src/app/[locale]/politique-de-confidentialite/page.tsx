@@ -53,7 +53,7 @@ export default function PolitiqueConfidentialite() {
               d'effacement, de limitation et d'opposition au traitement de vos données. Pour exercer
               ces droits, vous pouvez nous contacter à l'adresse suivante : 
               <br />
-              <strong className="text-white mt-1 inline-block">contact@servicesluxllc.com</strong>
+              <strong className="text-white mt-1 inline-block">jounaidi.by@hotmail.com</strong>
             </p>
           </section>
 

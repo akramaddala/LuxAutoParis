@@ -67,7 +67,7 @@ export function LocationSection() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-1 uppercase tracking-widest text-sm">{t('emailLabel')}</h4>
-                  <p className="text-neutral-400 font-light text-sm">contact@servicesluxllc.com</p>
+                  <p className="text-neutral-400 font-light text-sm">jounaidi.by@hotmail.com</p>
                 </div>
               </div>
             </motion.div>

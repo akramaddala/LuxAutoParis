@@ -6,6 +6,8 @@
     "whyUs": "Pourquoi Nous",
     "testimonials": "Avis",
     "apartments": "Appartements",
+    "vehiclesForSale": "Véhicules à Vendre",
+    "autoParts": "Pièces Auto",
     "contact": "Contact",
     "bookNow": "Réserver"
   },
@@ -26,7 +28,35 @@
     "tours": "Circuits Touristiques",
     "toursDesc": "Découvrez Paris et ses alentours dans un confort absolu. Laissez-nous vous guider vers les plus beaux monuments.",
     "apartments": "Appartements de Luxe",
-    "apartmentsDesc": "Une sélection exclusive d'appartements et de penthouses au cœur de Paris pour un séjour inoubliable avec service de conciergerie."
+    "apartmentsDesc": "Une sélection exclusive d'appartements et de penthouses au cœur de Paris pour un séjour inoubliable avec service de conciergerie.",
+    "vehiclesForSale": "Véhicules à Vendre",
+    "vehiclesForSaleDesc": "Acquérez le véhicule de vos rêves. Une sélection de voitures de luxe, de sport et de collection rigoureusement inspectées.",
+    "autoParts": "Pièces Auto",
+    "autoPartsDesc": "Trouvez des pièces de rechange d'origine et des accessoires haut de gamme pour votre véhicule de prestige."
+  },
+  "VehiclesForSale": {
+    "heading": "Vente de Véhicules",
+    "subheading": "Trouvez le véhicule de vos rêves",
+    "sportsCar": "Porsche 911 GT3 RS",
+    "sportsCarDesc": "L'incarnation de la performance sur piste, homologuée pour la route.",
+    "sportsCarPrice": "Sur demande",
+    "featMileage": "Faible kilométrage",
+    "featHistory": "Carnet d'entretien à jour",
+    "featWarranty": "Garantie 12 mois",
+    "bookBtn": "Demander des informations",
+    "loadMore": "Voir Plus de Véhicules"
+  },
+  "AutoParts": {
+    "heading": "Pièces Auto",
+    "subheading": "L'excellence pour votre véhicule",
+    "partName": "Jantes Forgées 21\"",
+    "partDesc": "Set de 4 jantes forgées ultra-légères, design exclusif pour modèles sportifs.",
+    "partPrice": "À partir de 4 500€",
+    "featOriginal": "Pièce Premium",
+    "featStock": "En stock",
+    "featDelivery": "Livraison en 48h",
+    "buyBtn": "Commander",
+    "loadMore": "Voir Plus de Pièces"
   },
   "Apartments": {
     "heading": "Nos Appartements",

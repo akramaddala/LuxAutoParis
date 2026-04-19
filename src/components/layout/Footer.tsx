@@ -23,6 +23,8 @@ export function Footer() {
             <li><Link href="#fleet" as={undefined} className="hover:text-gold transition-colors">{t('fleet')}</Link></li>
             <li><Link href="#rentals" as={undefined} className="hover:text-gold transition-colors">{t('rentals')}</Link></li>
             <li><Link href="#apartments" as={undefined} className="hover:text-gold transition-colors">{t('apartments')}</Link></li>
+            <li><Link href="#vehicles-for-sale" as={undefined} className="hover:text-gold transition-colors">{t('vehiclesForSale')}</Link></li>
+            <li><Link href="#auto-parts" as={undefined} className="hover:text-gold transition-colors">{t('autoParts')}</Link></li>
             <li><Link href="#testimonials" as={undefined} className="hover:text-gold transition-colors">{t('testimonials')}</Link></li>
           </ul>
         </div>
@@ -32,7 +34,7 @@ export function Footer() {
           <ul className="space-y-4 text-sm font-light">
             <li>30 N GOULD ST STE N<br />SHERIDAN, WY 82801</li>
             <li>+33 6 18 23 52 21</li>
-            <li>contact@servicesluxllc.com</li>
+            <li>jounaidi.by@hotmail.com</li>
           </ul>
         </div>
       </div>

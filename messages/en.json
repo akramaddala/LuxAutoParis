@@ -6,6 +6,8 @@
     "whyUs": "Why Us",
     "testimonials": "Reviews",
     "apartments": "Apartments",
+    "vehiclesForSale": "Vehicles for Sale",
+    "autoParts": "Auto Parts",
     "contact": "Contact",
     "bookNow": "Book Now"
   },
@@ -26,7 +28,35 @@
     "tours": "Sightseeing Tours",
     "toursDesc": "Discover Paris and its surroundings in absolute comfort. Let us guide you to the most beautiful monuments.",
     "apartments": "Luxury Apartments",
-    "apartmentsDesc": "An exclusive selection of apartments and penthouses in the heart of Paris for an unforgettable stay with concierge service."
+    "apartmentsDesc": "An exclusive selection of apartments and penthouses in the heart of Paris for an unforgettable stay with concierge service.",
+    "vehiclesForSale": "Vehicles for Sale",
+    "vehiclesForSaleDesc": "Acquire the vehicle of your dreams. A selection of rigorously inspected luxury, sports, and classic cars.",
+    "autoParts": "Auto Parts",
+    "autoPartsDesc": "Find genuine spare parts and premium accessories for your prestige vehicle."
+  },
+  "VehiclesForSale": {
+    "heading": "Vehicles for Sale",
+    "subheading": "Find your dream car",
+    "sportsCar": "Porsche 911 GT3 RS",
+    "sportsCarDesc": "The embodiment of track performance, homologated for the road.",
+    "sportsCarPrice": "On request",
+    "featMileage": "Low mileage",
+    "featHistory": "Full service history",
+    "featWarranty": "12 months warranty",
+    "bookBtn": "Request Information",
+    "loadMore": "View More Vehicles"
+  },
+  "AutoParts": {
+    "heading": "Auto Parts",
+    "subheading": "Excellence for your vehicle",
+    "partName": "21\" Forged Wheels",
+    "partDesc": "Set of 4 ultra-lightweight forged wheels, exclusive design for sports models.",
+    "partPrice": "From 4,500€",
+    "featOriginal": "Premium Part",
+    "featStock": "In stock",
+    "featDelivery": "48h delivery",
+    "buyBtn": "Order Now",
+    "loadMore": "View More Parts"
   },
   "Apartments": {
     "heading": "Our Apartments",

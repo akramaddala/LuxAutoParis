@@ -12,7 +12,7 @@ export default function MentionsLegales() {
             <p className="mt-2">
               Adresse : 30 N GOULD ST STE N<br />
               SHERIDAN, WY 82801<br />
-              Email : contact@servicesluxllc.com<br />
+              Email : jounaidi.by@hotmail.com<br />
               Téléphone : +33 (0)1 23 45 67 89
             </p>
           </section>

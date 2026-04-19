@@ -5,6 +5,8 @@ import {ServicesSection} from '@/components/sections/ServicesSection';
 import {FleetSection} from '@/components/sections/FleetSection';
 import {RentalSection} from '@/components/sections/RentalSection';
 import {ApartmentsSection} from '@/components/sections/ApartmentsSection';
+import {VehiclesForSaleSection} from '@/components/sections/VehiclesForSaleSection';
+import {AutoPartsSection} from '@/components/sections/AutoPartsSection';
 import {WhyUsSection} from '@/components/sections/WhyUsSection';
 import {TestimonialsSection} from '@/components/sections/TestimonialsSection';
 import {BookingSection} from '@/components/sections/BookingSection';
@@ -30,6 +32,8 @@ export default async function HomePage({
       <FleetSection />
       <RentalSection />
       <ApartmentsSection />
+      <VehiclesForSaleSection />
+      <AutoPartsSection />
       <WhyUsSection />
       <TestimonialsSection />
       <BookingSection />
